@@ -41,5 +41,5 @@ This project introduces a task management system directly into the Canvas interf
 
 ## 📎 Figma Link
 
-[🔗 View Prototype in Figma](#)  
-<!-- Replace # with your actual Figma prototype link -->
+[🔗 View Prototype in Figma](https://www.figma.com/design/qPy1d2oEV75PPFCPaIBSRF/Pilates-Princesses-Project-3-Wireframes-and-Prototypes?node-id=0-1&t=5uHkAjsBntNFizDY-1)  
+
