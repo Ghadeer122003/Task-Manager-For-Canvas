@@ -36,10 +36,10 @@ This project introduces a task management system directly into the Canvas interf
 - Google Forms / Sheets (User research & interview synthesis)
 
 ## 📸 Preview
+[🔗 View Prototype in Figma](https://www.figma.com/proto/qPy1d2oEV75PPFCPaIBSRF/Pilates-Princesses-Project-3-Wireframes-and-Prototypes?page-id=98%3A3989&node-id=98-6565&starting-point-node-id=98%3A6359&t=kCrGICfmIX44FdHG-1)  
 
-> Add screenshots or a link to your Figma prototype here.
 
 ## 📎 Figma Link
 
-[🔗 View Prototype in Figma](https://www.figma.com/design/qPy1d2oEV75PPFCPaIBSRF/Pilates-Princesses-Project-3-Wireframes-and-Prototypes?node-id=0-1&t=5uHkAjsBntNFizDY-1)  
+[🔗 View Project in Figma](https://www.figma.com/design/qPy1d2oEV75PPFCPaIBSRF/Pilates-Princesses-Project-3-Wireframes-and-Prototypes?node-id=0-1&t=5uHkAjsBntNFizDY-1)  
 
