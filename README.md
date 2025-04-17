@@ -28,13 +28,7 @@ A redesigned feature for the Canvas LMS: a built-in Task Manager to help student
 - Created high-fidelity prototypes with interactive task features
 - Iteratively tested with users and updated based on feedback
 
-## 📂 Features
-
-- Add, edit, and remove course-related tasks
-- Visual task timeline integrated with Canvas modules
-- Priority labels, due dates, and course linkage
-
 ## 🛠️ Tools Used
 
 - Figma (Design & Prototyping)
-- Google Forms / Sheets (User research & interview synthesis)
+- Interview Protocol (User research & interview synthesis)
